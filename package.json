@@ -1,0 +1,22 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "REST APIS WITH MIDDLEWARES Consider you have a books API where in you have 3 APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumitra-vns/day3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumitra-vns/day3/issues"
+  },
+  "homepage": "https://github.com/saumitra-vns/day3#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
